@@ -10,5 +10,13 @@ values for a given file.
 * [Python3](https://www.python.org/downloads/)
 
 # Instructions How To Run
-1. Download and unzip or git clone.
-2. Run python hashgen.py to compile.
+
+```
+git clone https://github.com/rix4uni/hash-generator.git
+```
+
+# Usage
+
+```
+python3 hashgen.py
+```
